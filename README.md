@@ -16,10 +16,3 @@ Ce répertoires est crée a but éducatifs suite a une demande de travaux pratiq
 
 # .gitignore 
   Ignore les fichier sensible : enregistre tout expecter les fichier declarer dans le fichier .gitignore
-
-# Tp 
-
- //Nom du projet = Gestion projet 
- //Ce projet est donné a but educatif afin de tester mes connaissance dans la mise en place d'un Repos Git
-
- //Nom : Daou Bamory Salif
